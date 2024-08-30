@@ -1,16 +1,16 @@
-## Hi there 👋
+## BOAS VINDAS AO PERFIL DA CAMILLE LINDA 🦚
 
-<!--
-**camillelinda/camillelinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Camille Alves
 
-Here are some ideas to get you started:
+- Estou estudando no Balardin
+- Estou me formando no Ensino Médio
+- Por meio deste, organizo minhas informações e compartlho-as
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ## GOSTOU? ENTRE EM CONTATO 📬
+
+  00001118098353sp@al.educacao.sp.gov.br
+  
+  @camillelinda
+  
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMoRyal1NFHVN54N-QYauzeBOA_xrF-fnpw&s)
